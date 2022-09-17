@@ -1,1 +1,1 @@
-# cv
+# Demo CV project
